@@ -1,0 +1,23 @@
+{
+  "name": "array-min",
+  "main": "array-min.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/miguelmota/array-min",
+  "authors": [
+    "Miguel Mota <miguelmota2@gmail.com>"
+  ],
+  "description": "Get minimum value of collection.",
+  "keywords": [
+    "collection",
+    "array",
+    "min"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "license": "MIT"
+}
